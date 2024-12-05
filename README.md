@@ -23,8 +23,8 @@
 ![Tabix](https://img.shields.io/badge/tabix-FFF?style=for-the-badge&logo=tabix&color=333333)
 #### Визуализация
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-003786?logo=Lookerstudio&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-f0c811?style=for-the-badge&logo=powerbi&logoColor=FFA500)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-003786?logo=Lookerstudio&logoColor=white&style=for-the-badge)
 #### Вспомогательные инструменты
 ![git](https://img.shields.io/badge/GIT-FFF?style=for-the-badge&logo=GIT&color=333333)
 ![Airflow](https://img.shields.io/badge/airflow-FFF?style=for-the-badge&logo=Apache%20Airflow&color=333333)
