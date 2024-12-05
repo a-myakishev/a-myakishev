@@ -31,3 +31,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter&color=333333)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 #### Сбор данных и Web-аналитика
+![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246fdb?style=for-the-badge&logo=yametrika%20analytics&logoColor=white)
+![Яндекс.Метрика](https://img.shields.io/badge/Yandex.Metrica-ffd93f?style=for-the-badge&logo=yametrika%20analytics&logoColor=white)
+
