@@ -6,7 +6,7 @@
 + [Telegram](https://t.me/artyom_am)
 + [a.myakishev.digital@gmail.com](mailto:a.myakishev.digital@gmail.com)
 --- 
-## Стек :hammer_and_wrench:
+## Мой стек :hammer_and_wrench:
 #### Python и библиотеки:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFA500)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500)
@@ -35,3 +35,4 @@
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246fdb?style=for-the-badge&logo=yametrika%20analytics&logoColor=white)
 ![Яндекс.Метрика](https://img.shields.io/badge/Yandex.Metrica-ffd93f?style=for-the-badge&logo=yametrika%20analytics&logoColor=white)
 
+## Мои проекты:
