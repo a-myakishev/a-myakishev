@@ -1,5 +1,5 @@
 <h1 align="center"> Привет! Меня зовут Артём</h1>
-<img align="right" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="350 ">
+<img align="right" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="350">
 
 Я начинающий аналитик данных. <br>
 С 2018 года работаю в digital, с 2023 — в веб-аналитике. <br> 
