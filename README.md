@@ -37,8 +37,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-f0c811?style=for-the-badge&logo=powerbi&logoColor=FFA500)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-003786?logo=Lookerstudio&logoColor=white&style=for-the-badge)<br>
 ![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Яндекс.Метрика](https://img.shields.io/badge/Yandex.Metrica-FFF?style=for-the-badge&logo=tabix&color=333333)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246fdb?style=for-the-badge&logo=yametrika%20analytics&logoColor=white)
+![Яндекс.Метрика](https://img.shields.io/badge/Yandex.Metrica-FFF?style=for-the-badge&logo=tabix&color=333333)
 
 ## :scroll:Мои проекты:
 | Название проекта                                                                 | Цели                                                                                                                                                            | Результат                                                                                                                                                                                      | Стек                          |
