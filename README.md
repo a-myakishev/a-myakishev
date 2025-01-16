@@ -20,15 +20,15 @@
 #### Python и библиотеки:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFA500)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500)
-![NumPy](https://img.shields.io/badge/numpy-%23150458?logo=numpy&logoColor=blue&style=for-the-badge)<br>
+![NumPy](https://img.shields.io/badge/numpy-%23150458?logo=numpy&logoColor=blue&style=for-the-badge)
 ![Scipy](https://img.shields.io/badge/Scipy-003786?logo=Scipy&logoColor=white&style=for-the-badge)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051b5?logo=Statsmodels&logoColor=white&style=for-the-badge)
-![Pingouin](https://img.shields.io/badge/pingouin-040203?logo=pingouin&logoColor=dbdbdb&style=for-the-badge)<br>
+![Pingouin](https://img.shields.io/badge/pingouin-040203?logo=pingouin&logoColor=dbdbdb&style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/plotly-003786?logo=plotly&logoColor=119dff&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?logo=seaborn&logoColor=white&style=for-the-badge)
 #### Работа с БД:
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Clickhouse](https://img.shields.io/badge/clickhouse-FFF?style=for-the-badge&logo=Clickhouse&color=333333)<br>
+![Clickhouse](https://img.shields.io/badge/clickhouse-FFF?style=for-the-badge&logo=Clickhouse&color=333333)
 ![Redash](https://img.shields.io/badge/Redash-526872?style=for-the-badge&logo=redash&logoColor=ff7964)
 ![Tabix](https://img.shields.io/badge/tabix-FFF?style=for-the-badge&logo=tabix&color=333333)
 #### Визуализация:
