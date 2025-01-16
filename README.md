@@ -17,7 +17,6 @@
 + [a.myakishev.digital@gmail.com](mailto:a.myakishev.digital@gmail.com)
 --- 
 ## :hammer_and_pick:Инструменты и технологии 
-#### Работа с данными:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFA500)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500)
 ![NumPy](https://img.shields.io/badge/numpy-%23150458?logo=numpy&logoColor=blue&style=for-the-badge)
