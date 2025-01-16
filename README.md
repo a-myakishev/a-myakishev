@@ -25,7 +25,7 @@
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051b5?logo=Statsmodels&logoColor=white&style=for-the-badge)
 ![Pingouin](https://img.shields.io/badge/pingouin-040203?logo=pingouin&logoColor=dbdbdb&style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/plotly-003786?logo=plotly&logoColor=119dff&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-444876?logo=seaborn&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?logo=seaborn&logoColor=white&style=for-the-badge)<br>
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Clickhouse](https://img.shields.io/badge/clickhouse-FFF?style=for-the-badge&logo=Clickhouse&color=333333)
 ![Redash](https://img.shields.io/badge/Redash-526872?style=for-the-badge&logo=redash&logoColor=ff7964)
