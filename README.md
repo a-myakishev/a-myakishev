@@ -32,7 +32,7 @@
 ![git](https://img.shields.io/badge/GIT-FFF?style=for-the-badge&logo=GIT&color=333333)
 ![Airflow](https://img.shields.io/badge/airflow-FFF?style=for-the-badge&logo=Apache%20Airflow&color=333333)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter&color=333333)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)<br>
+![Jira](https://img.shields.io/badge/-Jira-FFF?style=for-the-badge&logo=Jira&color=333333)<br>
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-f0c811?style=for-the-badge&logo=powerbi&logoColor=FFA500)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-003786?logo=Lookerstudio&logoColor=white&style=for-the-badge)<br>
