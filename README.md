@@ -12,6 +12,10 @@
    
 Кроме классического DA, интересуюсь продуктовой аналитикой: A/B-тестами, сегментацией пользователей и исследованием UX. 
 
+#### Пройденные курсы
++ [Karpov Courses - Аналитик данных](https://lab.karpov.courses/certificate/f0bca646-4d3d-42c3-bbb7-13e52c88e7c0/)
++ [Karpov Courses - Симулятор SQL](https://lab.karpov.courses/certificate/7dc766ff-e055-4c2b-9222-08c9d3bc2b9a/)
+
 #### Мои контакты
 + [Telegram](https://t.me/artyom_am)
 + [a.myakishev.digital@gmail.com](mailto:a.myakishev.digital@gmail.com)
